@@ -52,3 +52,6 @@ data/pretrained_models/metatron/G1/
 
 # Tutorial 7 writes its checkpoints here when run from the repo root.
 tutorial_7_output/
+
+# Local datasets (not tracked)
+data_local/
